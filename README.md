@@ -25,3 +25,12 @@ The​ ​output​ ​will​ ​have​ ​one​ ​clique​ ​per​ ​li
 user1​ ​user3
 user2​ ​user4​ ​user5
 ```
+
+## Are you really going to try it?
+
+This kata is evil! The core idea is to make you build something that is hard to check in real world (Wish you luck finding a Clique on twitter/github). This makes isolate those third party services to make it easier to test/mock.
+
+If you are lucky enough to find a list of users that forms a clique, and want to try this, you'll need to read:
+
+- [Twitter4J Auth Configuration](http://twitter4j.org/en/configuration.html)
+- [Github Auth Configuration](http://github-api.kohsuke.org/)
